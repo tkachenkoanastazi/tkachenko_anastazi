@@ -3,5 +3,5 @@ jdk:
  - openjdk8
 script:
  - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
- - mvn test 
+ - mvn -q test 
 
