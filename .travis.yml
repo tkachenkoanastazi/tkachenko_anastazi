@@ -5,5 +5,5 @@ os:
   - linux
 script:
 
- - mvn clean -q test 
+ - mvn -q test 
 
