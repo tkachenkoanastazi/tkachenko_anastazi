@@ -4,5 +4,4 @@ jdk:
 script:
  - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
  - mvn verify
- - ./execute-on-vnc.sh mvn clean -q test
 
