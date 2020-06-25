@@ -23,6 +23,7 @@
       <change beforePath="$PROJECT_DIR$/parser2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/parser_v1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ParserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ParserTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593105194491</updated>
-      <workItem from="1593105197682" duration="1977000" />
+      <workItem from="1593105197682" duration="2125000" />
     </task>
     <servers />
   </component>
@@ -115,28 +116,28 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1593105385530">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom" timestamp="1593107479457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593105385530" />
-    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1593105385530">
+    <state width="1478" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593107479457" />
+    <state width="1478" height="208" key="GridCell.Tab.0.center" timestamp="1593107479457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593105385530" />
-    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1593105385529">
+    <state width="1478" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593107479457" />
+    <state width="1478" height="208" key="GridCell.Tab.0.left" timestamp="1593107479457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593105385529" />
-    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1593105385530">
+    <state width="1478" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593107479457" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right" timestamp="1593107479457">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593105385530" />
+    <state width="1478" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593107479457" />
     <state x="540" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593105327251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1593105327251" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tkachenko_anastazi$ParserTest.ic" NAME="ParserTest Coverage Results" MODIFIED="1593105385173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tkachenko_anastazi$ParserTest.ic" NAME="ParserTest Coverage Results" MODIFIED="1593107479430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
