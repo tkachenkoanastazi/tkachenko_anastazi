@@ -1,5 +1,3 @@
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.time.Duration;
@@ -7,15 +5,6 @@ import java.time.Duration;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ParserTest {
-
-    @BeforeEach
-    void setUp() {
-    }
-
-    @AfterEach
-    void tearDown() {
-    }
-
 
     Parser parser = new Parser();
 
@@ -118,4 +107,5 @@ class ParserTest {
         int result = parser.parse(expression,str);
         assertEquals(-1, result);
     }
+
 }
