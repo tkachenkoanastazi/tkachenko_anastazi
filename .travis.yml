@@ -1,9 +1,18 @@
 install: true
+
 jdk: oraclejdk11
+
 language: java
+
+
 os:
   - linux
+
+before_install:
+
+
+
+  
 script:
 
- - mvn test -Dtest=ParserTest,ParserWhiteTest
-
+  - mvn clean -q test
